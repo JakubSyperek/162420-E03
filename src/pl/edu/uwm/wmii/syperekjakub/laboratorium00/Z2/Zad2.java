@@ -5,9 +5,15 @@ import java.util.LinkedHashSet;
 
 public class Zad2 {
 
-    public <E> void LinkedHashSet(Collection<? extends E>){
+    //public <E> void LinkedHashSet(Collection<? extends E>){
 
     }
 
+
+
+class main{
+    public static void Main(){
+
+    }
 }
 

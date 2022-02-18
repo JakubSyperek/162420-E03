@@ -4,7 +4,12 @@ import java.io.File;
 
 public class Zad3 {
     public class Metoda{
-        public static File[]
+
+
+        public static <name> void accept(File dir, String name)
+        {
+
+        }
     }
 
 }
